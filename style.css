@@ -1,0 +1,22 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.card {
+    display: inline-block;
+    border: 3px solid black;
+    width: 200px;
+    margin: 10px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: white;
+}
+
+body {
+    background-color: rgb(133, 30, 30)
+}
+
+#title {
+    color: white;
+}
